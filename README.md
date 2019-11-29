@@ -1,0 +1,2 @@
+# rules_of_millions_flowers
+使用Python绘制万花尺
